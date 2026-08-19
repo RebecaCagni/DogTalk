@@ -1,0 +1,25 @@
+{
+  "product": {
+    "id": 1,
+    "name": "DogTalk - Tradutor de Cachorro",
+    "price": 149.90,
+    "currency": "BRL",
+    "shipping": "Frete grátis",
+    "delivery_estimate": "3-7 dias úteis"
+  },
+  "features": [
+    {"id":1,"title":"Tradução empática","desc":"Interpreta sinais e comportamentos com linguagem simples — saiba se seu cão está com fome, estresse, medo ou desconforto."},
+    {"id":2,"title":"Ações práticas","desc":"Sugestões fáceis e imediatas para melhorar o bem‑estar do pet e fortalecer a rotina diária."},
+    {"id":3,"title":"Acompanhamento inteligente","desc":"Registre padrões ao longo do tempo e receba insights que ajudam a prevenir problemas e entender mudanças de comportamento."}
+  ],
+  "testimonials":[
+    {"id":1,"name":"Mariana, SP","rating":5,"text":"Finalmente entendi o que o Nino queria!"},
+    {"id":2,"name":"Rafael, RJ","rating":5,"text":"Ferramenta intuitiva — adorei a experiência."},
+    {"id":3,"name":"Ana, MG","rating":4,"text":"Muito útil para donos de primeira viagem."}
+  ],
+  "faq":[
+    {"q":"Funciona com todas as raças?","a":"A demo é genérica; a versão final terá ajustes por porte/raça."},
+    {"q":"Preciso comprar algum carregador?","a":"Não — o DogTalk é 100% carregado por energia solar."},
+    {"q":"A IA faz tradução em tempo real?","a":"Sim, quando seu cachorro late a IA traduz e você recebe a interpretação instantaneamente."}
+  ]
+}
